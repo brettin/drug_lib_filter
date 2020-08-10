@@ -1,7 +1,7 @@
 # Setup
 ```
 # create conda env & install rdkit and rd_filters
-conda install -c rdkit==2020.03.01
+conda install -c rdkit rdkit==2020.03.01
 pip install git+https://github.com/PatWalters/rd_filters.git
 ```
 
